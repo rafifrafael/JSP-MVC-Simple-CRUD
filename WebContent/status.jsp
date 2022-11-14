@@ -89,7 +89,8 @@
                      
             <tr>
             	<td><a class="btn btn-primary" role="button" href="editform.jsp?id=<%=d.getId() %>">Edit</a> |
-					<a class="btn btn-danger" role="button" href="deleteuser.jsp?id=<%=d.getId() %>">Delete</a></td>
+					<a class="btn btn-danger" role="button" href="deleteuser.jsp?id=<%=d.getId() %>">Delete</a> |
+					<a class="btn btn-secondary" role="button" onClick="window.print()">Save as PDF</a></td>
             </tr>
             
         </table>
