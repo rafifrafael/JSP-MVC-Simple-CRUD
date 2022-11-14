@@ -8,4 +8,6 @@
 
 ![Edit](https://i.imgur.com/pROoePf.png)
 
-![Status](https://i.imgur.com/jhxKGil.png)
+![Status](https://i.imgur.com/640LxDY.png)
+
+![PDF](https://i.imgur.com/aCNnxKQ.png)
